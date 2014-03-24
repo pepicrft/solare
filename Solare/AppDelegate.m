@@ -7,22 +7,16 @@
 //
 
 #import "AppDelegate.h"
-
 #import "ViewController.h"
-#import <Foundation/Foundation.h>
 #import "UAirship.h"
-#import <AudioToolbox/AudioToolbox.h>
 #import "Appirater.h"
 #import "Flurry.h"
-#import "UAPush.h"
-#import "UAGlobal.h"
 #import "UAConfig.h"
 #import "UAirship+Internal.h"
 
 
 @implementation AppDelegate
 @synthesize maximumTimes;
-
 @synthesize window = _window;
 @synthesize viewController = _viewController;
 @synthesize fpsarray;
@@ -180,22 +174,21 @@
 
 - (void)applicationDidEnterBackground:(UIApplication *)application
 {
-    //Tenemos que comprobar si había alguna alarma activa para mantener la cuenta al arrancar de nuevo la app
-    //Lo que hacemos es guardar en un UserDefaults los estados de la alarma para restaurarlos al iniciar de cero la aplicación
-    NSUserDefaults *defaults=[NSUserDefaults standardUserDefaults];
-    [defaults setBool:self.viewController.alarmaactiva forKey:@"Alarmaactiva"];
 
-    if(self.viewController.alarmaactiva){
-        [defaults setObject:self.viewController.findealarma forKey:@"Findealarma"];
-        [defaults setObject:self.viewController.comienzoalarma forKey:@"Comienzoalarma"];
+    NSUserDefaults *defaults=[NSUserDefaults standardUserDefaults];
+    [defaults setBool:self.viewController.isAlarmActive forKey:@"alarmActive"];
+    [defaults synchronize];
+
+    if(self.viewController.isAlarmActive){
+        [defaults setObject:self.viewController.endOfAlarm forKey:@"endOfAlarm"];
+        [defaults setObject:self.viewController.startOfAlarm forKey:@"startOfAlarm"];
 
     }
 
-    [self.viewController.locationManager stopUpdatingLocation]; //Detenemos la localización para que no siga funcionando en segundo plano
-    if([self.viewController.contador isValid]){ //En el caso de que el contador esté funcionando, lo invalidamos.
-    [self.viewController.contador invalidate];
+    [self.viewController.locationManager stopUpdatingLocation];
 
-
+    if([self.viewController.counter isValid]){
+        [self.viewController.counter invalidate];
     }
 }
 
@@ -209,31 +202,25 @@
     [UIApplication sharedApplication].applicationIconBadgeNumber = 0;
 
 
-    //Recuperamos del userdefaults los datos de la alarma ( Si había alguna activa o no )
     NSUserDefaults *defaults=[NSUserDefaults standardUserDefaults];
-    self.viewController.alarmaactiva=[defaults boolForKey:@"Alarmaactiva"];
-    self.viewController.findealarma=[defaults objectForKey:@"Findealarma"];
-    self.viewController.comienzoalarma=[defaults objectForKey:@"Comienzoalarma"];
+    self.viewController.isAlarmActive =[defaults boolForKey:@"alarmActive"];
+    self.viewController.endOfAlarm =[defaults objectForKey:@"endOfAlarm"];
+    self.viewController.startOfAlarm =[defaults objectForKey:@"endOfAlarm"];
 
-    if (self.viewController.alarmaactiva){
-
-        [self.viewController iniciarcontador];
+    if (self.viewController.isAlarmActive){
+        [self.viewController startCounter];
     }
     else{
-        //Configuramos la alarma, para ello ponemos la barra de progreso a 0, y alarmaactiva a NO
-        self.viewController.barraProgreso.progress=0.0;
-        self.viewController.alarmaactiva=NO;
+        self.viewController.progressBar.progress=0.0;
+        self.viewController.isAlarmActive =NO;
     }
-    //////////
 
-    [self.viewController.locationManager startUpdatingLocation]; //Iniciamos la localización porque la aplicación ha vuelto a estar activa
+    [self.viewController.locationManager startUpdatingLocation];
 
-    //Comprobamos si es de noche
 
     NSDateComponents *components = [[NSCalendar currentCalendar] components:NSHourCalendarUnit | NSMinuteCalendarUnit | NSDayCalendarUnit | NSMonthCalendarUnit | NSYearCalendarUnit
                                                                    fromDate:[NSDate date]];
     NSLog(@"Hora : %d",components.hour);
-    //Si está entre las 9 y las 21 horas, esdenoche=TRUE, en caso contrario esdenoche=FALSE;
     if(components.hour>7 && components.hour<22 )
     {
         self.viewController.esdenoche=FALSE;
@@ -241,10 +228,14 @@
         self.viewController.esdenoche=TRUE;
     }
 
-    //Comprobamos si están activas o no las notificaciones
+    [self updateNotificationsStatus];
+}
+
+
+- (void)updateNotificationsStatus
+{
     if([[NSUserDefaults standardUserDefaults] boolForKey:@"push"]){
         NSLog(@"Las notificaciones están activas");
-        // Register for notifications
         [[UAPush shared]
          registerForRemoteNotificationTypes:(UIRemoteNotificationTypeBadge |
                                              UIRemoteNotificationTypeSound |
@@ -253,10 +244,11 @@
         [[UIApplication sharedApplication] unregisterForRemoteNotifications];
 
     }
-    //Sincronizamos el badge
     [[UAPush shared] setAutobadgeEnabled:YES];
     [[UAPush shared] resetBadge];//zero badge
 }
+
+
 - (void)applicationWillTerminate:(UIApplication *)application
 {
     // Called when the application is about to terminate. Save data if appropriate. See also applicationDidEnterBackground:.

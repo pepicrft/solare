@@ -47,11 +47,11 @@
     //Alarma
     IBOutlet UIButton *alarmaButton;
     IBOutlet UIView *alarmaView;
-    IBOutlet YLProgressBar *barraProgreso;
-    NSDate *findealarma;
-    NSDate *comienzoalarma;
-    BOOL alarmaactiva;
-    NSTimer *contador;
+    IBOutlet YLProgressBar *progressBar;
+    NSDate *endOfAlarm;
+    NSDate *startOfAlarm;
+    BOOL isAlarmActive;
+    NSTimer *counter;
     IBOutlet UILabel *contadorlabel;
     BOOL UVobtenido;
     BOOL esdenoche;
@@ -87,7 +87,7 @@
 -(void)actualizarinterfaz;
 -(IBAction)mostraralarma:(id)sender;
 -(IBAction)activaralarma:(id)sender;
--(void) iniciarcontador;
+-(void)startCounter;
 -(void)showAlert:(NSArray*)mensajes;
 
 
@@ -125,12 +125,12 @@
 @property (nonatomic,retain)    IBOutlet UILabel *tmaxLabel;
 @property (nonatomic,retain) IBOutlet UILabel *escalalabel;
 @property (nonatomic,retain)     IBOutlet UIView *alarmaView;
-@property (nonatomic,retain)     IBOutlet YLProgressBar *barraProgreso;
-@property (nonatomic,retain)     NSDate *findealarma;
-@property (nonatomic,retain)     NSDate *comienzoalarma;
-@property (nonatomic,retain)     NSTimer *contador;
+@property (nonatomic,retain)     IBOutlet YLProgressBar *progressBar;
+@property (nonatomic,retain)     NSDate *endOfAlarm;
+@property (nonatomic,retain)     NSDate *startOfAlarm;
+@property (nonatomic,retain)     NSTimer *counter;
 @property (nonatomic,retain)     IBOutlet UIButton *alarmaButton;
-@property (nonatomic)     BOOL alarmaactiva;
+@property (nonatomic)     BOOL isAlarmActive;
 @property (nonatomic)     BOOL esdenoche;
 @property (nonatomic,retain)    IBOutlet UILabel *contadorlabel;
 @property (nonatomic,retain)     CLPlacemark *placemark;

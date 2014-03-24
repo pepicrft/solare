@@ -25,7 +25,7 @@
 @implementation ViewController
 @synthesize locationManager, currentLocation,mapa;
 @synthesize barra,guiaBarra,uvView,uvLabel,uvindexLabel,localizacionLabel,tmaxLabel,temperaturaLabel,escalalabel,placemark,clock;
-@synthesize  alarmaView,barraProgreso,findealarma,contador,alarmaButton,alarmaactiva,contadorlabel,comienzoalarma;
+@synthesize  alarmaView, progressBar, endOfAlarm, counter,alarmaButton, isAlarmActive,contadorlabel, startOfAlarm;
 @synthesize tonoView,tono,UVI,UVobtenido;
 @synthesize esdenoche;
 @synthesize  tonocolor;
@@ -74,7 +74,7 @@
 
 
     //Configuramos la barra de progreso
-    barraProgreso.progress=0.0;
+    progressBar.progress=0.0;
 
     //Inicializamos la vista para seleccionar el tono de piel solo que la dejamos oculta por debajo de la vista principal
     tonoView=[[TonoViewController alloc] initWithNibName:@"TonoViewController" bundle:nil];
@@ -490,7 +490,7 @@
 
             clock.accessibilityHint=NSLocalizedString(@"APAlarm2", nil);
 
-            if (alarmaactiva) {
+            if (isAlarmActive) {
                 [clock setImage:[UIImage imageNamed:@"dclock2.png"] forState:UIControlStateNormal];
 
             }else{
@@ -510,7 +510,7 @@
             clock.accessibilityHint=NSLocalizedString(@"APAlarm1", nil);
 
 
-            if (alarmaactiva) {
+            if (isAlarmActive) {
                 [clock setImage:[UIImage imageNamed:@"clock2.png"] forState:UIControlStateNormal];
 
             }else{
@@ -541,7 +541,7 @@
     }
     else{ //Si hay limite, luego podemos activar la alarma
 
-    if(alarmaactiva==NO)
+    if(isAlarmActive ==NO)
     {
         NSLog(@"Activamos la alarma");
         alarmaButton.accessibilityHint=NSLocalizedString(@"APAlarm4", nil);
@@ -553,14 +553,14 @@
         [self.clock setImage:[UIImage imageNamed:@"dclock2.png"] forState:UIControlStateHighlighted];
 
 
-    comienzoalarma = [[NSDate alloc] init];
-    findealarma=[comienzoalarma dateByAddingTimeInterval:60*tmax];
-    [self iniciarcontador];
-    alarmaactiva=YES;
+    startOfAlarm = [[NSDate alloc] init];
+    endOfAlarm =[startOfAlarm dateByAddingTimeInterval:60 * tmax];
+        [self startCounter];
+    isAlarmActive =YES;
 
     ///// Iniciamos la notificación local //////
         UILocalNotification *localNotification = [[UILocalNotification alloc] init];
-        [localNotification setFireDate:findealarma];
+        [localNotification setFireDate:endOfAlarm];
         [localNotification setAlertAction:@"Launch"];
         [localNotification setAlertBody:[NSString stringWithFormat:@"%@ %d %@",NSLocalizedString(@"tmax1", nil),(int)(tmax),NSLocalizedString(@"tmax2", nil)]];
         localNotification.soundName=@"sirena.caf";
@@ -584,10 +584,10 @@
 
         [[UIApplication sharedApplication] cancelAllLocalNotifications];
 
-        [contador invalidate];
+        [counter invalidate];
         [contadorlabel setText:@""];
-        barraProgreso.progress=0.0;
-        alarmaactiva=NO;
+        progressBar.progress=0.0;
+        isAlarmActive =NO;
 
     }
     }
@@ -596,15 +596,16 @@
         [self showAlert:[NSArray arrayWithObjects:NSLocalizedString(@"Alarmadenoche", nil), NSLocalizedString(@"OK", nil), NSLocalizedString(@"Informacion", nil), nil]];
     }
 }
--(void) iniciarcontador{
-    contador=[NSTimer scheduledTimerWithTimeInterval:1 target:self selector:@selector(actualizarcontador:) userInfo:nil repeats:YES];
+-(void)startCounter
+{
+    counter =[NSTimer scheduledTimerWithTimeInterval:1 target:self selector:@selector(actualizarcontador:) userInfo:nil repeats:YES];
 }
 -(void)actualizarcontador:(NSTimer*)timer{
-    NSTimeInterval tiempototal=[findealarma timeIntervalSinceDate:comienzoalarma];
-    NSTimeInterval cuenta=[findealarma timeIntervalSinceDate:[[NSDate alloc]init]];
+    NSTimeInterval tiempototal= [endOfAlarm timeIntervalSinceDate:startOfAlarm];
+    NSTimeInterval cuenta=[endOfAlarm timeIntervalSinceDate:[[NSDate alloc] init]];
 
     //Actualizamos el porcentaje de la barra de progreso
-    [barraProgreso    setProgress:(tiempototal-cuenta)/tiempototal animated:YES];
+    [progressBar setProgress:(tiempototal - cuenta) / tiempototal animated:YES];
 
 
     if(cuenta>0){ //Hay que actualizar porque todavía no ha llegado a cero la cuenta
@@ -635,20 +636,20 @@
         alarmaButton.accessibilityHint=NSLocalizedString(@"APAlarm3", nil);
 
 
-        //La cuenta es menor que cero luego invalidamos el contador y borramos el label
+        //La cuenta es menor que cero luego invalidamos el counter y borramos el label
         //Actualizamos las imágenes del botón
         [self.clock setImage:[UIImage imageNamed:@"clock.png"] forState:UIControlStateNormal];
         [self.clock setImage:[UIImage imageNamed:@"dclock.png"] forState:UIControlStateHighlighted];
 
-        [contador invalidate];
+        [counter invalidate];
         contadorlabel.text=@"";
-        barraProgreso.progress=0.0;
+        progressBar.progress=0.0;
         [alarmaButton setImage:[UIImage imageNamed:@"Comenzar.png"] forState:UIControlStateNormal];
         [alarmaButton setImage:[UIImage imageNamed:@"dComenzar.png"] forState:UIControlStateHighlighted];
 
         [[UIApplication sharedApplication] cancelAllLocalNotifications];
 
-        alarmaactiva=NO;
+        isAlarmActive =NO;
         }
 }
 
@@ -883,7 +884,7 @@
             fpslabel.alpha=0.0;
             fpslabeltit.alpha=0.0;
             buscadorlabelview.alpha=1.0;
-            if(!alarmaactiva){
+            if(!isAlarmActive){
                 [clock setImage:[UIImage imageNamed:@"clock.png"] forState:UIControlStateNormal];
             }
      }];

@@ -1024,7 +1024,7 @@
 				</object>
 				<object class="IBConnectionRecord">
 					<object class="IBCocoaTouchOutletConnection" key="connection">
-						<string key="label">barraProgreso</string>
+						<string key="label">progressBar</string>
 						<reference key="source" ref="372490531"/>
 						<reference key="destination" ref="175900116"/>
 					</object>
@@ -1612,7 +1612,7 @@
 						<string key="alarmaView">UIView</string>
 						<string key="alarmahiddenview">UIView</string>
 						<string key="barra">UIView</string>
-						<string key="barraProgreso">YLProgressBar</string>
+						<string key="progressBar">YLProgressBar</string>
 						<string key="buscadorlabelview">UIView</string>
 						<string key="clock">UIButton</string>
 						<string key="contadorlabel">UILabel</string>
@@ -1649,8 +1649,8 @@
 							<string key="name">barra</string>
 							<string key="candidateClassName">UIView</string>
 						</object>
-						<object class="IBToOneOutletInfo" key="barraProgreso">
-							<string key="name">barraProgreso</string>
+						<object class="IBToOneOutletInfo" key="progressBar">
+							<string key="name">progressBar</string>
 							<string key="candidateClassName">YLProgressBar</string>
 						</object>
 						<object class="IBToOneOutletInfo" key="buscadorlabelview">
