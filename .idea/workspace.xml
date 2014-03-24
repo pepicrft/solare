@@ -1,0 +1,640 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b7a0bd98-7603-4447-9422-5a1e81c99242" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Resources/Consejos/Agradecimientos/AECC.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Resources/Alertview/Alertview@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Resources/Alertview/Alertview@2x.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Classes/GoogleAdMobAdsSdkiOS-6.4.1 2/Add-ons/GoogleAnalyticsiOS_2.0beta4/Examples/CuteAnimals/Images/Bunny-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Classes/GoogleAdMobAdsSdkiOS-6.4.1 2/Add-ons/GoogleAnalyticsiOS_2.0beta4/Examples/CuteAnimals/Images/Bunny-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Classes/GoogleAdMobAdsSdkiOS-6.4.1 2/Add-ons/GoogleAnalyticsiOS_2.0beta4/Examples/CuteAnimals/Images/Bunny-3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Classes/GoogleAdMobAdsSdkiOS-6.4.1 2/Add-ons/GoogleAnalyticsiOS_2.0beta4/Examples/CuteAnimals/Images/Cat-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Classes/GoogleAdMobAdsSdkiOS-6.4.1 2/Add-ons/GoogleAnalyticsiOS_2.0beta4/Examples/CuteAnimals/Images/Cat-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Classes/GoogleAdMobAdsSdkiOS-6.4.1 2/Add-ons/GoogleAnalyticsiOS_2.0beta4/Examples/CuteAnimals/Images/Cat-3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Classes/GoogleAdMobAdsSdkiOS-6.4.1 2/Add-ons/GoogleAnalyticsiOS_2.0beta4/Examples/CuteAnimals/Images/Cat-4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Resources/Info/en.lproj/Celda1@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Resources/Info/es.lproj/Celda1@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Resources/Info/en.lproj/Celda2@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Resources/Info/es.lproj/Celda2@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Resources/Info/en.lproj/Celda3@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Resources/Info/es.lproj/Celda3@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Resources/Info/en.lproj/Celda4@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Resources/Info/es.lproj/Celda4@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Resources/Info/en.lproj/Celda5@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Resources/Info/es.lproj/Celda5@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Resources/es.lproj/Comenzar.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Resources/en.lproj/Comenzar@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Resources/es.lproj/Comenzar@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Default.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Default@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Resources/en.lproj/Derecho@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Resources/es.lproj/Derecho@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Resources/en.lproj/Derechod@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Resources/es.lproj/Derechod@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Resources/Consejos/FOTOS.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Resources/Fondo2@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Resources/Google@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Icon@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Resources/Icon@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Resources/Icono.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Resources/IconoItunes.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Resources/IconoItunes2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Resources/IconoItunes2_1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Resources/IconoItunesGrande.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Resources/Info/Info.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Resources/en.lproj/Izquierdo@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Resources/es.lproj/Izquierdo@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Resources/en.lproj/Izquierdod@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Resources/es.lproj/Izquierdod@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Classes/GoogleAdMobAdsSdkiOS-6.4.1 2/Add-ons/GoogleAnalyticsiOS_2.0beta4/Examples/CuteAnimals/Images/Lion-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Classes/GoogleAdMobAdsSdkiOS-6.4.1 2/Add-ons/GoogleAnalyticsiOS_2.0beta4/Examples/CuteAnimals/Images/Lion-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Classes/GoogleAdMobAdsSdkiOS-6.4.1 2/Add-ons/GoogleAnalyticsiOS_2.0beta4/Examples/CuteAnimals/Images/Lion-3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Classes/GoogleAdMobAdsSdkiOS-6.4.1 2/Add-ons/GoogleAnalyticsiOS_2.0beta4/Examples/CuteAnimals/Images/Lion-4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Resources/Consejos/Agradecimientos/Ministerio.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Classes/GoogleAdMobAdsSdkiOS-6.4.1 2/Add-ons/GoogleAnalyticsiOS_2.0beta4/Examples/CuteAnimals/Images/Monkey-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Classes/GoogleAdMobAdsSdkiOS-6.4.1 2/Add-ons/GoogleAnalyticsiOS_2.0beta4/Examples/CuteAnimals/Images/Monkey-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Classes/GoogleAdMobAdsSdkiOS-6.4.1 2/Add-ons/GoogleAnalyticsiOS_2.0beta4/Examples/CuteAnimals/Images/Monkey-3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Classes/GoogleAdMobAdsSdkiOS-6.4.1 2/Add-ons/GoogleAnalyticsiOS_2.0beta4/Examples/CuteAnimals/Images/Monkey-4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Classes/GoogleAdMobAdsSdkiOS-6.4.1 2/Add-ons/GoogleAnalyticsiOS_2.0beta4/Examples/CuteAnimals/Images/Monkey-5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Resources/Otros/Otrosback@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Resources/Principal@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Resources/en.lproj/Reiniciar@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Resources/es.lproj/Reiniciar@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Resources/Splash@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Resources/Consejos/TEXTOS.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Resources/Temperatura@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Resources/Tiempomax@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Classes/GoogleAdMobAdsSdkiOS-6.4.1 2/Add-ons/GoogleAnalyticsiOS_2.0beta4/Examples/CuteAnimals/Images/Tiger-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Classes/GoogleAdMobAdsSdkiOS-6.4.1 2/Add-ons/GoogleAnalyticsiOS_2.0beta4/Examples/CuteAnimals/Images/Tiger-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Resources/Alertview/alertbutton@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Resources/Alertview/alertbuttond@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Resources/Info/backbutton@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Resources/Info/backbuttond@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Resources/Info/barra@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Classes/GoogleAdMobAdsSdkiOS-6.4.1 2/Add-ons/GoogleAnalyticsiOS_2.0beta4/Documentation/html/img/button_bar_background.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Resources/Tono Flotante/buttontonocerrar@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Resources/Tono Flotante/buttontonocerrard@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Resources/Consejos/celdaconsejo@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Resources/Consejos/celdaconsejod@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Resources/Consejos/celdaconsejofirst@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Resources/Consejos/celdaconsejofirstd@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Resources/Consejos/celdaconsejolast@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Resources/Consejos/celdaconsejolastd@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Resources/chronometerback@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Resources/en.lproj/clock2@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Resources/es.lproj/clock2@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Resources/en.lproj/clock@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Resources/es.lproj/clock@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Resources/Info/en.lproj/compartirbutton@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Resources/Info/es.lproj/compartirbutton@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Resources/Info/en.lproj/compartirbuttond@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Resources/Info/es.lproj/compartirbuttond@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Resources/Consejos/consejosback@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Resources/en.lproj/dComenzar@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Resources/es.lproj/dComenzar@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Resources/en.lproj/dReiniciar@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Resources/es.lproj/dReiniciar@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Resources/en.lproj/dclock2@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Resources/es.lproj/dclock2@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Resources/en.lproj/dclock@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Resources/es.lproj/dclock@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Classes/GoogleAdMobAdsSdkiOS-6.4.1 2/Add-ons/GoogleAnalyticsiOS_2.0beta4/Documentation/html/img/disclosure.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Classes/GoogleAdMobAdsSdkiOS-6.4.1 2/Add-ons/GoogleAnalyticsiOS_2.0beta4/Documentation/html/img/disclosure_open.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Resources/Info/enviarbutton@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Resources/Info/enviarbuttond@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Resources/Info/fondo@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Resources/Consejos/foto1@2x.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Resources/Consejos/foto2@2x.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Resources/Consejos/foto3@2x.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Resources/Consejos/foto4@2x.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Resources/Consejos/foto5@2x.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Resources/Consejos/foto6@2x.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Resources/Consejos/foto7@2x.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Resources/Consejos/en.lproj/fpsbutton@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Resources/Consejos/es.lproj/fpsbutton@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Resources/Consejos/en.lproj/fpsbuttond@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Resources/Consejos/es.lproj/fpsbuttond@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Classes/GoogleAdMobAdsSdkiOS-6.4.1 2/libGoogleAdMobAds.a" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Classes/GoogleAdMobAdsSdkiOS-6.4.1 2/Add-ons/GoogleAnalyticsiOS_2.0beta4/Library/libGoogleAnalytics.a" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Classes/GoogleAdMobAdsSdkiOS-6.4.1 2/Add-ons/GoogleAnalyticsiOS_2.0beta4/Library/libGoogleAnalytics_debug.a" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Classes/GoogleAdMobAdsSdkiOS-6.4.1 2/Add-ons/GoogleAnalyticsiOS_2.0beta4/Documentation/html/img/library_background.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Resources/navbar@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Resources/Info/panel@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Resources/Info/settingsbutton@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Resources/Info/settingsbuttond@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/sirena.caf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Resources/sirena.caf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Resources/splash.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Resources/Consejos/en.lproj/texto1@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Resources/Consejos/es.lproj/texto1@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Resources/Consejos/en.lproj/texto2@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Resources/Consejos/es.lproj/texto2@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Resources/Consejos/en.lproj/texto3@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Resources/Consejos/es.lproj/texto3@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Resources/Consejos/en.lproj/texto4@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Resources/Consejos/es.lproj/texto4@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Resources/Consejos/en.lproj/texto5@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Resources/Consejos/es.lproj/texto5@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Resources/Consejos/en.lproj/texto6@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Resources/Consejos/es.lproj/texto6@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Resources/Consejos/en.lproj/texto7@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Resources/Consejos/es.lproj/texto7@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Classes/GoogleAdMobAdsSdkiOS-6.4.1 2/Add-ons/GoogleAnalyticsiOS_2.0beta4/Documentation/html/img/title_background.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Resources/Tono Flotante/en.lproj/tonoback@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Resources/Tono Flotante/es.lproj/tonoback@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Resources/Tono Flotante/tonoback@2x.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Resources/Tono Flotante/tonocelda@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Resources/Tono Flotante/tonoceldad@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Resources/Tono Flotante/tonodepiel@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Resources/en.lproj/tonodepiel@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Resources/es.lproj/tonodepiel@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Resources/tonodepiel@2x.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Resources/en.lproj/tonodepield@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Resources/es.lproj/tonodepield@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Resources/Sounds/touch1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Resources/Sounds/touch2.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Resources/Info/en.lproj/valorarbutton@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Resources/Info/es.lproj/valorarbutton@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Resources/Info/en.lproj/valorarbuttond@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Resources/Info/es.lproj/valorarbuttond@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Resources/Consejos/Agradecimientos/wunderground.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Classes/ARCMacro.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Consejos/AgradecimientosViewController.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Consejos/AgradecimientosViewController.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Consejos/en.lproj/AgradecimientosViewController.xib" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Consejos/es.lproj/AgradecimientosViewController.xib" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/AlertViewController.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/AlertViewController.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/AlertViewController.xib" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Classes/GoogleAdMobAdsSdkiOS-6.4.1 2/Add-ons/GoogleAnalyticsiOS_2.0beta4/Examples/CuteAnimals/AppDelegate.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Classes/GoogleAdMobAdsSdkiOS-6.4.1 2/Add-ons/GoogleAnalyticsiOS_2.0beta4/Examples/CuteAnimals/AppDelegate.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Classes/GoogleAdMobAdsSdkiOS-6.4.1 2/Add-ons/GoogleAnalyticsiOS_2.0beta4/Examples/CuteAnimals/CategoryViewController.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Classes/GoogleAdMobAdsSdkiOS-6.4.1 2/Add-ons/GoogleAnalyticsiOS_2.0beta4/Examples/CuteAnimals/CategoryViewController.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Classes/GoogleAdMobAdsSdkiOS-6.4.1 2/Add-ons/GoogleAnalyticsiOS_2.0beta4/Examples/CuteAnimals/CategoryViewController_iPad.xib" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Classes/GoogleAdMobAdsSdkiOS-6.4.1 2/Add-ons/GoogleAnalyticsiOS_2.0beta4/Examples/CuteAnimals/CategoryViewController_iPhone.xib" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Classes/GoogleAdMobAdsSdkiOS-6.4.1 2/Add-ons/GoogleAnalyticsiOS_2.0beta4/Changelog.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Classes/Ciudad.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Classes/Ciudad.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Consejos/Consejo1ViewController.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Consejos/Consejo1ViewController.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Consejos/Consejo1ViewController.xib" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ConsejosViewController.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ConsejosViewController.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ConsejosViewController.xib" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Classes/CustomAlertView.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Classes/CustomAlertView.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Classes/GoogleAdMobAdsSdkiOS-6.4.1 2/Add-ons/GoogleAnalyticsiOS_2.0beta4/Examples/CuteAnimals/CuteAnimals-Info.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Classes/GoogleAdMobAdsSdkiOS-6.4.1 2/Add-ons/GoogleAnalyticsiOS_2.0beta4/Examples/CuteAnimals/CuteAnimals-Prefix.pch" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Classes/GoogleAdMobAdsSdkiOS-6.4.1 2/Add-ons/GoogleAnalyticsiOS_2.0beta4/Examples/CuteAnimals/CuteAnimals.xcodeproj/xcuserdata/pepibumur.xcuserdatad/xcschemes/CuteAnimals.xcscheme" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Classes/GoogleAdMobAdsSdkiOS-6.4.1 2/Add-ons/DoubleClick/DFPBannerView.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Classes/GoogleAdMobAdsSdkiOS-6.4.1 2/Add-ons/DoubleClick/DFPExtras.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Classes/GoogleAdMobAdsSdkiOS-6.4.1 2/Add-ons/DoubleClick/DFPInterstitial.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Classes/GoogleAdMobAdsSdkiOS-6.4.1 2/Add-ons/DoubleClick/DFPSwipeableBannerView.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Classes/GoogleAdMobAdsSdkiOS-6.4.1 2/GADAdMobExtras.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Classes/GoogleAdMobAdsSdkiOS-6.4.1 2/GADAdNetworkExtras.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Classes/GoogleAdMobAdsSdkiOS-6.4.1 2/GADAdSize.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Classes/GoogleAdMobAdsSdkiOS-6.4.1 2/Add-ons/DoubleClick/GADAdSizeDelegate.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Classes/GoogleAdMobAdsSdkiOS-6.4.1 2/Add-ons/DoubleClick/GADAppEventDelegate.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Classes/GoogleAdMobAdsSdkiOS-6.4.1 2/GADBannerView.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Classes/GoogleAdMobAdsSdkiOS-6.4.1 2/GADBannerViewDelegate.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Classes/GoogleAdMobAdsSdkiOS-6.4.1 2/Add-ons/Mediation/GADCustomEventBanner.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Classes/GoogleAdMobAdsSdkiOS-6.4.1 2/Add-ons/Mediation/GADCustomEventBannerDelegate.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Classes/GoogleAdMobAdsSdkiOS-6.4.1 2/Add-ons/Mediation/GADCustomEventExtras.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Classes/GoogleAdMobAdsSdkiOS-6.4.1 2/Add-ons/Mediation/GADCustomEventInterstitial.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Classes/GoogleAdMobAdsSdkiOS-6.4.1 2/Add-ons/Mediation/GADCustomEventInterstitialDelegate.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Classes/GoogleAdMobAdsSdkiOS-6.4.1 2/Add-ons/Mediation/GADCustomEventRequest.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Classes/GoogleAdMobAdsSdkiOS-6.4.1 2/GADInterstitial.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Classes/GoogleAdMobAdsSdkiOS-6.4.1 2/GADInterstitialDelegate.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Classes/GoogleAdMobAdsSdkiOS-6.4.1 2/GADRequest.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Classes/GoogleAdMobAdsSdkiOS-6.4.1 2/GADRequestError.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Classes/GoogleAdMobAdsSdkiOS-6.4.1 2/Add-ons/Search/GADSearchBannerView.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Classes/GoogleAdMobAdsSdkiOS-6.4.1 2/Add-ons/Search/GADSearchRequest.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Classes/GoogleAdMobAdsSdkiOS-6.4.1 2/Add-ons/DoubleClick/GADSwipeableBannerViewDelegate.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Classes/GoogleAdMobAdsSdkiOS-6.4.1 2/Add-ons/GoogleAnalyticsiOS_2.0beta4/Library/GAI.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Classes/GoogleAdMobAdsSdkiOS-6.4.1 2/Add-ons/GoogleAnalyticsiOS_2.0beta4/Documentation/html/Classes/GAI.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Classes/GoogleAdMobAdsSdkiOS-6.4.1 2/Add-ons/GoogleAnalyticsiOS_2.0beta4/Library/GAITrackedViewController.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Classes/GoogleAdMobAdsSdkiOS-6.4.1 2/Add-ons/GoogleAnalyticsiOS_2.0beta4/Documentation/html/Classes/GAITrackedViewController.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Classes/GoogleAdMobAdsSdkiOS-6.4.1 2/Add-ons/GoogleAnalyticsiOS_2.0beta4/Library/GAITracker.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Classes/GoogleAdMobAdsSdkiOS-6.4.1 2/Add-ons/GoogleAnalyticsiOS_2.0beta4/Documentation/html/Protocols/GAITracker.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Classes/GoogleAdMobAdsSdkiOS-6.4.1 2/Add-ons/GoogleAnalyticsiOS_2.0beta4/Library/GAITransaction.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Classes/GoogleAdMobAdsSdkiOS-6.4.1 2/Add-ons/GoogleAnalyticsiOS_2.0beta4/Documentation/html/Classes/GAITransaction.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Classes/GoogleAdMobAdsSdkiOS-6.4.1 2/Add-ons/GoogleAnalyticsiOS_2.0beta4/Library/GAITransactionItem.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Classes/GoogleAdMobAdsSdkiOS-6.4.1 2/Add-ons/GoogleAnalyticsiOS_2.0beta4/Documentation/html/Classes/GAITransactionItem.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Classes/HZActivityIndicator/HZActivityIndicatorView.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Classes/HZActivityIndicator/HZActivityIndicatorView.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Classes/InAppSettingsKit/Controllers/IASKAppSettingsViewController.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Classes/InAppSettingsKit/Controllers/IASKAppSettingsViewController.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Classes/InAppSettingsKit/Controllers/IASKAppSettingsWebViewController.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Classes/InAppSettingsKit/Controllers/IASKAppSettingsWebViewController.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Classes/InAppSettingsKit/Views/IASKPSSliderSpecifierViewCell.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Classes/InAppSettingsKit/Views/IASKPSSliderSpecifierViewCell.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Classes/InAppSettingsKit/Views/IASKPSTextFieldSpecifierViewCell.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Classes/InAppSettingsKit/Views/IASKPSTextFieldSpecifierViewCell.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Classes/InAppSettingsKit/Views/IASKPSTitleValueSpecifierViewCell.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Classes/InAppSettingsKit/Views/IASKPSTitleValueSpecifierViewCell.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Classes/InAppSettingsKit/Models/IASKSettingsReader.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Classes/InAppSettingsKit/Models/IASKSettingsReader.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Classes/InAppSettingsKit/Models/IASKSettingsStore.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Classes/InAppSettingsKit/Models/IASKSettingsStore.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Classes/InAppSettingsKit/Models/IASKSettingsStoreFile.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Classes/InAppSettingsKit/Models/IASKSettingsStoreFile.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Classes/InAppSettingsKit/Models/IASKSettingsStoreUserDefaults.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Classes/InAppSettingsKit/Models/IASKSettingsStoreUserDefaults.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Classes/InAppSettingsKit/Views/IASKSlider.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Classes/InAppSettingsKit/Views/IASKSlider.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Classes/InAppSettingsKit/Models/IASKSpecifier.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Classes/InAppSettingsKit/Models/IASKSpecifier.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Classes/InAppSettingsKit/Controllers/IASKSpecifierValuesViewController.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Classes/InAppSettingsKit/Controllers/IASKSpecifierValuesViewController.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Classes/InAppSettingsKit/Views/IASKSwitch.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Classes/InAppSettingsKit/Views/IASKSwitch.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Classes/InAppSettingsKit/Views/IASKTextField.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Classes/InAppSettingsKit/Views/IASKTextField.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Classes/InAppSettingsKit/Controllers/IASKViewController.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Classes/GoogleAdMobAdsSdkiOS-6.4.1 2/Add-ons/GoogleAnalyticsiOS_2.0beta4/Examples/CuteAnimals/ImageViewController.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Classes/GoogleAdMobAdsSdkiOS-6.4.1 2/Add-ons/GoogleAnalyticsiOS_2.0beta4/Examples/CuteAnimals/ImageViewController.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/es.lproj/InfoPlist.strings" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Classes/InformacionViewController.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Classes/InformacionViewController.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Classes/en.lproj/InformacionViewController.xib" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Classes/es.lproj/InformacionViewController.xib" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/appirater/da.lproj/Localizable.strings" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/appirater/de.lproj/Localizable.strings" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/appirater/en.lproj/Localizable.strings" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/appirater/es.lproj/Localizable.strings" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/appirater/fr.lproj/Localizable.strings" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/appirater/it.lproj/Localizable.strings" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/appirater/ja.lproj/Localizable.strings" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/appirater/ko.lproj/Localizable.strings" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/appirater/nl.lproj/Localizable.strings" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/appirater/pl.lproj/Localizable.strings" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/appirater/pt.lproj/Localizable.strings" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/appirater/ru.lproj/Localizable.strings" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/appirater/sv.lproj/Localizable.strings" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Classes/GoogleAdMobAdsSdkiOS-6.4.1 2/Add-ons/GoogleAnalyticsiOS_2.0beta4/Examples/CuteAnimals/NavController.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Classes/GoogleAdMobAdsSdkiOS-6.4.1 2/Add-ons/GoogleAnalyticsiOS_2.0beta4/Examples/CuteAnimals/NavController.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Classes/OtrosViewController.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Classes/OtrosViewController.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Classes/OtrosViewController.xib" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Classes/en.lproj/OtrosViewController.xib" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Classes/es.lproj/OtrosViewController.xib" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Classes/en.lproj/OtrosViewController~.xib" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Preferencias.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Classes/GoogleAdMobAdsSdkiOS-6.4.1 2/README.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Classes/Reachability/Reachability.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Classes/Reachability/Reachability.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Classes/GoogleAdMobAdsSdkiOS-6.4.1 2/Add-ons/GoogleAnalyticsiOS_2.0beta4/Readme.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Classes/GoogleAdMobAdsSdkiOS-6.4.1 2/Add-ons/GoogleAnalyticsiOS_2.0beta4/Examples/CuteAnimals/Readme.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Regiones.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Settings.bundle/Root.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Settings.bundle/en.lproj/Root.strings" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Settings.bundle/es.lproj/Root.strings" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Classes/GoogleAdMobAdsSdkiOS-6.4.1 2/Add-ons/GoogleAnalyticsiOS_2.0beta4/Examples/CuteAnimals/RootViewController.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Classes/GoogleAdMobAdsSdkiOS-6.4.1 2/Add-ons/GoogleAnalyticsiOS_2.0beta4/Examples/CuteAnimals/RootViewController.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Classes/GoogleAdMobAdsSdkiOS-6.4.1 2/Add-ons/GoogleAnalyticsiOS_2.0beta4/Examples/CuteAnimals/RootViewController.xib" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Solare.entitlements" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Classes/Spinner.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Classes/Spinner.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Classes/SpinnerView.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Classes/SpinnerView.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/TonoViewController.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/TonoViewController.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/en.lproj/TonoViewController.xib" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/es.lproj/TonoViewController.xib" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/es.lproj/ViewController.xib" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Classes/YLBackgroundView.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Classes/YLBackgroundView.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Classes/YLProgressBar.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Classes/YLProgressBar.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Classes/GoogleAdMobAdsSdkiOS-6.4.1 2/Add-ons/GoogleAnalyticsiOS_2.0beta4/Documentation/html/hierarchy.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Classes/GoogleAdMobAdsSdkiOS-6.4.1 2/Add-ons/GoogleAnalyticsiOS_2.0beta4/Documentation/html/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Classes/GoogleAdMobAdsSdkiOS-6.4.1 2/Add-ons/GoogleAnalyticsiOS_2.0beta4/Examples/CuteAnimals/main.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Classes/GoogleAdMobAdsSdkiOS-6.4.1 2/Add-ons/GoogleAnalyticsiOS_2.0beta4/Examples/CuteAnimals/CuteAnimals.xcodeproj/project.pbxproj" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Classes/GoogleAdMobAdsSdkiOS-6.4.1 2/Add-ons/GoogleAnalyticsiOS_2.0beta4/Documentation/html/css/styles.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Classes/GoogleAdMobAdsSdkiOS-6.4.1 2/Add-ons/GoogleAnalyticsiOS_2.0beta4/Documentation/html/css/stylesPrint.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Solare/Classes/GoogleAdMobAdsSdkiOS-6.4.1 2/Add-ons/GoogleAnalyticsiOS_2.0beta4/Examples/CuteAnimals/CuteAnimals.xcodeproj/xcuserdata/pepibumur.xcuserdatad/xcschemes/xcschememanagement.plist" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Solare/AppDelegate.h" afterPath="$PROJECT_DIR$/Solare/AppDelegate.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Solare/AppDelegate.m" afterPath="$PROJECT_DIR$/Solare/AppDelegate.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Solare/Solare-Info.plist" afterPath="$PROJECT_DIR$/Solare/Solare-Info.plist" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Solare/Solare-Prefix.pch" afterPath="$PROJECT_DIR$/Solare/Solare-Prefix.pch" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Solare/ViewController.h" afterPath="$PROJECT_DIR$/Solare/ViewController.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Solare/ViewController.m" afterPath="$PROJECT_DIR$/Solare/ViewController.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Solare/en.lproj/ViewController.xib" afterPath="$PROJECT_DIR$/Solare/en.lproj/ViewController.xib" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Solare.xcodeproj/project.pbxproj" afterPath="$PROJECT_DIR$/Solare.xcodeproj/project.pbxproj" />
+    </list>
+    <ignored path="Solare.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="iphonesimulator_iPhone_Retina__4_inch_64_bit__7.1" />
+  <component name="FavoritesManager">
+    <favorites_list name="Solare" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="Solare-Prefix.pch" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Solare/Solare-Prefix.pch">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="11" column="22" selection-start="248" selection-end="248" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="707">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AppDelegate.m" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Solare/AppDelegate.m">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="171" column="29" selection-start="8815" selection-end="8815" vertical-scroll-proportion="0.46577945" vertical-offset="2149" max-vertical-offset="5062">
+              <folding>
+                <element signature="e#139#162#0" expanded="true" />
+                <element signature="e#446#471#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Podfile" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Podfile">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="4" column="25" selection-start="135" selection-end="135" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="581">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitLogSettings">
+    <option name="myDateState">
+      <MyDateState />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/Podfile" />
+        <option value="$PROJECT_DIR$/Solare/Solare-Prefix.pch" />
+        <option value="$PROJECT_DIR$/Solare/AppDelegate.m" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="22" />
+    <option name="width" value="1680" />
+    <option name="height" value="940" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeRootNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Solare" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeRootNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Solare" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Solare" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeViewNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeRootNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Solare" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Solare" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeViewNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Supporting Files" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeViewNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeRootNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Cidr.FilesView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="recentsLimit" value="5" />
+  </component>
+  <component name="RunManager" selected="Application.Solare">
+    <configuration default="true" type="AppleRunConfiguration" factoryName="Application" PROJECT_NAME="Solare" TARGET_NAME="Solare" CONFIG_NAME="Debug" PASS_PARENT_ENVS="FALSE" RUN_TARGET_PROJECT_NAME="Solare" RUN_TARGET_NAME="Solare" MAKE_ACTIVE="TRUE" WAIT_FOR="FALSE">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="OCUnitRunConfiguration" factoryName="XCTest/Kiwi" PROJECT_NAME="Solare" TARGET_NAME="SolareTests" CONFIG_NAME="Debug" PASS_PARENT_ENVS="FALSE" TEST_MODE="SUITE_TEST">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="OCGoogleTestRunConfigurationType" factoryName="Google Test" PROJECT_NAME="Solare" TARGET_NAME="Solare" CONFIG_NAME="Debug" PASS_PARENT_ENVS="FALSE" TEST_MODE="SUITE_TEST">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Solare" type="AppleRunConfiguration" factoryName="Application" SCHEME_NAME="Solare" PROJECT_NAME="Solare" TARGET_NAME="Solare" CONFIG_NAME="Debug" WORKING_DIR="" PASS_PARENT_ENVS="FALSE" RUN_TARGET_PROJECT_NAME="Solare" RUN_TARGET_NAME="Solare" MAKE_ACTIVE="TRUE" WAIT_FOR="FALSE">
+      <envs />
+      <RunnerSettings RunnerId="AppRunner" />
+      <ConfigurationWrapper RunnerId="AppRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Appirater" type="AppleRunConfiguration" factoryName="Application" SCHEME_NAME="Appirater" PROJECT_NAME="Pods" TARGET_NAME="Appirater" CONFIG_NAME="Debug" WORKING_DIR="" PASS_PARENT_ENVS="FALSE" MAKE_ACTIVE="TRUE" WAIT_FOR="FALSE">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Pods-Appirater" type="AppleRunConfiguration" factoryName="Application" SCHEME_NAME="Pods-Appirater" PROJECT_NAME="Pods" TARGET_NAME="Pods-Appirater" CONFIG_NAME="Debug" WORKING_DIR="" PASS_PARENT_ENVS="FALSE" MAKE_ACTIVE="TRUE" WAIT_FOR="FALSE">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Pods-FlurrySDK" type="AppleRunConfiguration" factoryName="Application" SCHEME_NAME="Pods-FlurrySDK" PROJECT_NAME="Pods" TARGET_NAME="Pods-FlurrySDK" CONFIG_NAME="Debug" WORKING_DIR="" PASS_PARENT_ENVS="FALSE" MAKE_ACTIVE="TRUE" WAIT_FOR="FALSE">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Pods-UrbanAirship-iOS-SDK" type="AppleRunConfiguration" factoryName="Application" SCHEME_NAME="Pods-UrbanAirship-iOS-SDK" PROJECT_NAME="Pods" TARGET_NAME="Pods-UrbanAirship-iOS-SDK" CONFIG_NAME="Debug" WORKING_DIR="" PASS_PARENT_ENVS="FALSE" MAKE_ACTIVE="TRUE" WAIT_FOR="FALSE">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Pods-XMLReader" type="AppleRunConfiguration" factoryName="Application" SCHEME_NAME="Pods-XMLReader" PROJECT_NAME="Pods" TARGET_NAME="Pods-XMLReader" CONFIG_NAME="Debug" WORKING_DIR="" PASS_PARENT_ENVS="FALSE" MAKE_ACTIVE="TRUE" WAIT_FOR="FALSE">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Pods" type="AppleRunConfiguration" factoryName="Application" SCHEME_NAME="Pods" PROJECT_NAME="Pods" TARGET_NAME="Pods" CONFIG_NAME="Debug" WORKING_DIR="" PASS_PARENT_ENVS="FALSE" MAKE_ACTIVE="TRUE" WAIT_FOR="FALSE">
+      <envs />
+      <method />
+    </configuration>
+    <list size="7">
+      <item index="0" class="java.lang.String" itemvalue="Application.Solare" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Appirater" />
+      <item index="2" class="java.lang.String" itemvalue="Application.Pods-Appirater" />
+      <item index="3" class="java.lang.String" itemvalue="Application.Pods-FlurrySDK" />
+      <item index="4" class="java.lang.String" itemvalue="Application.Pods-UrbanAirship-iOS-SDK" />
+      <item index="5" class="java.lang.String" itemvalue="Application.Pods-XMLReader" />
+      <item index="6" class="java.lang.String" itemvalue="Application.Pods" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b7a0bd98-7603-4447-9422-5a1e81c99242" name="Default" comment="" />
+      <created>1395653037587</created>
+      <updated>1395653037587</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="22" width="1680" height="940" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32978722" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32978722" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20760411" sideWeight="0.67021275" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32978722" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Default.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Default@2x.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Icon.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Preferencias.plist">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1114">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Default-568h@2x.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Podfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="25" selection-start="135" selection-end="135" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="581">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Solare/Solare-Prefix.pch">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="22" selection-start="248" selection-end="248" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="707">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Solare/AppDelegate.m">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="171" column="29" selection-start="8815" selection-end="8815" vertical-scroll-proportion="0.46577945" vertical-offset="2149" max-vertical-offset="5062">
+          <folding>
+            <element signature="e#139#162#0" expanded="true" />
+            <element signature="e#446#471#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+

@@ -1,0 +1,1 @@
+PODS_URBANAIRSHIP_IOS_SDK_OTHER_LDFLAGS = -lsqlite3.0 -lz -framework CFNetwork -framework CoreGraphics -framework CoreLocation -framework CoreTelephony -framework Foundation -framework MobileCoreServices -framework Security -framework SystemConfiguration -framework UIKit

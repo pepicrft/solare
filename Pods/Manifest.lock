@@ -1,0 +1,21 @@
+PODS:
+  - Appirater (2.0.2)
+  - FlurrySDK (4.3.2):
+    - FlurrySDK/FlurrySDK
+  - FlurrySDK/FlurrySDK (4.3.2)
+  - UrbanAirship-iOS-SDK (3.0.3)
+  - XMLReader (0.0.2)
+
+DEPENDENCIES:
+  - Appirater (~> 2.0)
+  - FlurrySDK (~> 4.3)
+  - UrbanAirship-iOS-SDK (~> 3.0)
+  - XMLReader (~> 0.0)
+
+SPEC CHECKSUMS:
+  Appirater: 32fb9089615b5e542c7ad7b5749741a8aed55290
+  FlurrySDK: 0ba42379fd272d69246ae06386a2c5688516ffd8
+  UrbanAirship-iOS-SDK: 0c315cacb94346ee5bb348c8d305fb32f3768caa
+  XMLReader: d8a522b0362140b328bcaec7f289ff4ffffebf29
+
+COCOAPODS: 0.29.0

@@ -1,0 +1,151 @@
+"If you enjoy using %@, would you mind taking a moment to rate it? It won't take more than a minute. Thanks for your support!" = "If you enjoy using %@, would you mind taking a moment to rate it? It won't take more than a minute. Thanks for your support!";
+"Rate %@" = "Rate %@";
+"No, Thanks" = "No, Thanks";
+"Remind me later" = "Remind me later";
+
+/* 
+ Localizable.strings
+ Solare
+ 
+ Created by Pedro Piñera Buendía on 12/06/12.
+ Copyright (c) 2012 Pedro. All rights reserved.
+ */
+
+//Niveles de UV
+"UVMuybajo"="Very low";
+"UVBajo"= "Low";
+"UVModerado"="Moderate";
+"UVMuyalto"="Very high";
+"UVAlto"="High";
+
+//Pieles
+"Pielmuyclara"="Very light skin";
+"Pielclara"="Light skin";
+"Pielmclara"="Light brown skin";
+"Pielmosc"="Dark brown skin";
+"Pielosc"="Dark skin";
+"Pielmuyosc"="Very dark skin";
+"tono1"="Extremely sensitive. It burns easily. It resists tanning.";
+"tono2"="Sensible. It burns easily. Rarely achieved a minimum tan";
+"tono3"="Normal sensitivity. It burns in moderation, gradual tan";
+"tono4"="Normal sensitivity. Burns minimally, dark tan";
+"tono5"="Little or no sensitivity. Rarely burns, deep tan";
+"tono6"="Insensitive. Does not burn";
+
+//Labels
+"Sindatos"="No data";
+
+//Alertas
+"Informacion"="Information";
+"Entendido"="Understood";
+"OK"="OK";
+"Importante"="Important";
+"Notificacion"="Notification";
+"NoUVInfo"="We have no UV information in your area";
+"Nohaydatos"="We can not activate the alarm because we have no UV data in your area";
+"Nohayriesgo"="The UV index is very low then there is no risk when exposed to the sun";
+"Advertencia"="Despite using sunscreen, you should not exceed this time.";
+"Esdenoche"="It is night, there is no risk of UV.";
+"tmax1"="Maximum elapsed time (";
+"tmax2"="min). Avoid exposure to the sun longer";
+"Alarmadenoche"="We can not activate an alarm at night. There's no risk";
+"Imposibletweet"="Unable to tweet, verify that connection and try again";
+"Oopstweet"="Ooops, something was not right. Try again after a while";
+"Mailenborradores"="Email saved in drafts.";
+"Mailenviado"="Email sent successfully.";
+"Mailfallido"="Something has gone wrong when sending mail. Please try again.";
+"Mailnoconf"="Your iPhone is not configured to send emails. Check it";
+
+
+//Twitter
+"twitter1"="I enjoy with @Solareapp an UV index of ";
+"twitter2"="in ";
+"twitter3"="Share";
+"twitter4"="Would you like to include a photo?";
+"twitter5"="Yes";
+"twitter6"="No";
+"twitter7"="I'm using @Solareapp in iOS ";
+
+
+//Mail
+"mailbody"="I am contacting you to let you know something about your application Solare:";
+"mailsubject"="About Solare";
+
+//Consejos
+"Consejos"="Tips";
+"Calculadorafps"="The calculation is performed with the selected skin tone on the main screen";
+"Calculadora"="Calculator";
+"Calcular"="Calculate";
+"Calculadorasuf"="SPF minimum is sufficient";
+"Calculadorares1"="Minimum: ";
+"Calculadorares2"=".\nFor kids review tips";
+"Nodatosenzona"="We have no UV data in your zone to calculate the SPF";
+
+
+
+"Introduccion"="Introduction";
+"Indices"="Protection Index";
+"Resistenciaagua"="Water resistance";
+"Elegfotoprotector"="Choose sunscreen";
+"Advertencias"="Warnings";
+"Infantil"="Child protection";
+"Frecuentes"="FAQ";
+"Agradecimientos"="Thanks";
+
+"Introduccion1"="See the type of solar radiation and the danger of each one";
+"Indices1"="The meaning of each of them and different intensities";
+"Resistenciaagua1"="Property that may appear in some sunscreens";
+"Elegfotoprotector1"="Tips for choosing the appropriate sunscreen";
+"Advertencias1"="Very important to note";
+"Infantil1"="Special care for little kids";
+"Frecuentes1"="Answers to frequently asked questions that often appear";
+"Agradecimientos1"="To all those who indirectly contribute to the project";
+
+//Preferencias
+"Settings"="Settings";
+
+//Mail
+"Mail1"="Hello Solare. I'm having problems to get UV data in ";
+"Mail2"="Could you try to solve it?";
+
+
+//Accesibilidad
+"AI1"="Why Solare";
+"AI2"="About times...";
+"AI3"="Sunscreens";
+"AI4"="Ultraviolet data";
+"AI5"="Thanks";
+
+"AID1"="Solare has been developed to help people prevent diseases caused by excessive exposure to sunlight.";
+"AID2"="Times are aproximate and depend on each case of the person, hence we have decided to consider the most sensitive skin when it comes to giving the maximum time.";
+"AID3"="Although sunscreens can increase the time, is not recommended under any circumstances exceed them.";
+"AID4"="The data come from an external server to the application so that it is possible that small problems can occur when downloading data.";
+"AID5"="Thank you for choosing Solare. We will work every day to offer a better product thanks to your comments and criticisms.";
+
+
+"AP1"="The temperature is ";
+"AP2"="degrees fahrenheit";
+"AP3"="The maximum time without protector is ";
+"AP4"="minutes.";
+"AP5"="Ultraviolet index in ";
+"AP6"="is ";
+"AP7"="You can stay as long as you like sunbathing.";
+"AP8"="The minimum recommended factor for skin tone and the ultraviolet index is ";
+"AP9"="Show advertising";
+"AP10"="Datos obtained: ";
+"AP11"="UV Browser for all the world. Use the search bar";
+"AP12"="Data in your location";
+"AP13"="Back";
+"AP14"="Settings";
+
+
+
+
+"APAlarm1"="Show alarm";
+"APAlarm2"="Hide alarm";
+"APAlarm3"="Start alarm";
+"APAlarm4"="Reset alarm";
+"APCount1"="The remaining time is ";
+"APCount2"="hours ";
+"APCount3"="minutes ";
+"APCount4"="seconds ";

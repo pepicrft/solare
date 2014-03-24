@@ -1,0 +1,151 @@
+"If you enjoy using %@, would you mind taking a moment to rate it? It won't take more than a minute. Thanks for your support!" = "Si le gusta utilizar %@, ¿le importaría valorarlo? No le tomará más de un minuto. ¡Gracias por su colaboración!";
+"Rate %@" = "Valoración %@";
+"No, Thanks" = "No, gracias";
+"Remind me later" = "Recordar luego";
+
+/* 
+ Localizable.strings
+ Solare
+ 
+ Created by Pedro Piñera Buendía on 12/06/12.
+ Copyright (c) 2012 Pedro. All rights reserved.
+ */
+
+//Niveles de UV
+"UVMuybajo"="Muy bajo";
+"UVBajo"= "Bajo";
+"UVModerado"="Moderado";
+"UVMuyalto"="Muy alto";
+"UVAlto"="Alto";
+
+//Pieles
+"Pielmuyclara"="Piel muy clara";
+"Pielclara"="Piel clara";
+"Pielmclara"="Piel morena clara";
+"Pielmosc"="Piel morena oscura";
+"Pielosc"="Piel oscura";
+"Pielmuyosc"="Piel muy oscura";
+"tono1"="Extremadamente sensible. Se quema con facilidad. No resiste el bronceado.";
+"tono2"="Sensible. Se quema con facilidad. Rara vez se logra un mínimo bronceado";
+"tono3"="Sensibilidad normal. Se quema con moderación. Bronceado gradual";
+"tono4"="Sensibilidad normal. Se quema mínimamente. Bronceado intenso";
+"tono5"="Sensibilidad mínima o inexistente. Rara vez se quema. Bronceado profundo";
+"tono6"="Insensible. No se quema";
+
+//Labels
+"Sindatos"="Sin datos";
+
+//Alertas
+"Informacion"="Información";
+"Entendido"="Entendido";
+"OK"="Vale";
+"Importante"="Importante";
+"Notificacion"="Notificación";
+"NoUVInfo"="No tenemos información UV de su zona";
+"Nohaydatos"="No podemos activar la alarma porque no tenemos datos UV de su zona";
+"Nohayriesgo"="El índice UV es muy bajo luego no existe riesgo a la hora de exponerse al sol";
+"Advertencia"="A pesar de usar protectores solares, se recomienda no exceder este tiempo.";
+"Esdenoche"="Es de noche, no existe riesgo ninguno de UV.";
+"tmax1"="Tiempo máximo transcurrido (";
+"tmax2"="min). Evita exponerte más tiempo al sol";
+"Alarmadenoche"="No podemos activar una alarma siendo de noche";
+"Imposibletweet"="Imposible twittear, compruebe que tenga conexión e inténtelo de nuevo";
+"Oopstweet"="Ooops, algo no fue correctamente. Inténtelo de nuevo pasado un rato";
+"Mailenborradores"="Correo electrónico guardado en borradores.";
+"Mailenviado"="Correo electrónico enviado satisfactoriamente.";
+"Mailfallido"="Algo ha fallado a la hora de enviar el correo. Inténtalo de nuevo.";
+"Mailnoconf"="Su iPhone no está configurado para enviar emails. Revíselo";
+
+
+
+//Twitter
+"twitter1"="Disfruto con @Solareapp de un índice UV de ";
+"twitter2"="en ";
+"twitter3"="Compartir";
+"twitter4"="¿Deseas incluir una fotografía?";
+"twitter5"="Sí";
+"twitter6"="No";
+"twitter7"="Estoy usando @Solareapp en iOS ";
+
+
+
+//Mail
+"mailbody"="Me pongo en contacto contigo para comentarte algo acerca de tu aplicación Solare:";
+"mailsubject"="Acerca de Solare";
+
+//Consejos
+"Consejos"="Consejos";
+"Calculadorafps"="El cálculo se realizará con el tono de piel seleccionado en la pantalla principal";
+"Calcular"="Calcular";
+"Calculadora"="Calculadora";
+"Calculadorasuf"="FPS Mínimo suficiente";
+"Calculadorares1"="Mínimo:";
+"Calculadorares2"=".\nPara niños revisar Consejos";
+"Nodatosenzona"="No disponemos de datos UV de su zona para realizar el cálculo";
+
+
+
+"Introduccion"="Introducción";
+"Indices"="Índices de protección";
+"Resistenciaagua"="Resistencia al agua";
+"Elegfotoprotector"="Elegir fotoprotector";
+"Advertencias"="Advertencias";
+"Infantil"="Protección infantil";
+"Frecuentes"="Preguntas frecuentes";
+"Agradecimientos"="Agradecimientos";
+
+"Introduccion1"="Descubre el tipo de radiaciones solares y el peligro de cada una de ellas";
+"Indices1"="El significado de cada uno de ellos y distintas intensidades";
+"Resistenciaagua1"="Propiedad que puede aparecer en algunos fotoprotectores";
+"Elegfotoprotector1"="Consejos para elegir el fotoprotector adecuado en función de cada persona";
+"Advertencias1"="Muy importante a tener en cuenta";
+"Infantil1"="Especial atención para los pequeños de la casa";
+"Frecuentes1"="Respuestas a preguntas frecuentes que suelen aparecer";
+"Agradecimientos1"="A todos aquellos que indirectamente contribuyen en el proyecto";
+
+//Preferencias
+"Settings"="Preferencias";
+
+//Mail
+"Mail1"="Hola Solare. Estoy teniendo problemas para obtener el índice UV en ";
+"Mail2"="¿Podrías solucionarlo?";
+
+
+//Accesibilidad
+"AI1"="Para qué solare";
+"AI2"="Sobre los tiempos";
+"AI3"="Protectores";
+"AI4"="Datos ultravioleta";
+"AI5"="Gracias";
+
+"AID1"="Solare ha sido desarrollado para ayudar a las personas a prevenir enfermedades producidas por una exposición excesiva a la radiación solar.";
+"AID2"="Los tiempos son orientativos, y dependerán en cada caso de la persona, de ahí que hayamos decidido considerar las pieles más sensibles a la hora de dar los tiempos máximos.";
+"AID3"="Aunque con los protectores solares los tiempos pueden aumentar, no se recomienda excederlos bajo ningún concepto.";
+"AID4"="Los datos provienen de un servidor externo a la aplicación por lo que no se descarta que puedan aparecer pequeños problemas a la hora de descargar los datos.";
+"AID5"="Gracias por elegir Solare. Trabajaremos día a día para ofrecer un mejor producto gracias a vuestras valoraciones y críticas.";
+
+"AP1"="La temperatura es ";
+"AP2"="grados centígrados";
+"AP3"="El tiempo máximo de exposición sin fotoprotector es ";
+"AP4"="minutos.";
+"AP5"="El índice ultravioleta en ";
+"AP6"="es ";
+"AP7"="Puede permanecer el tiempo que quiera expuesto al sol.";
+"AP8"="El factor mínimo recomendado para su tono de piel y el índice ultravioleta es ";
+"AP9"="Mostrar publicidad";
+"AP10"="Datos obtenidos: ";
+"AP11"="Buscador UV para todo el mundo. Use la barra de búsqueda";
+"AP12"="Datos en su zona";
+"AP13"="Volver";
+"AP14"="Preferencias";
+
+
+
+"APAlarm1"="Mostrar alarma";
+"APAlarm2"="Ocultar alarma";
+"APAlarm3"="Iniciar alarma";
+"APAlarm4"="Detener alarma";
+"APCount1"="El tiempo restante es ";
+"APCount2"="horas ";
+"APCount3"="minutos ";
+"APCount4"="segundos ";
